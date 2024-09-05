@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    border: 2px solid red;
+    width: 70%; /*ancho de parrafo*/
+    margin: auto; /*centrar*/
+}

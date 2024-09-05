@@ -1,0 +1,43 @@
+table{
+    width: 70%;
+    margin: auto;
+    background-color: rgb(141, 122, 101);
+    padding: 20px;
+}
+
+.banner{
+    text-align: center;
+    margin-top: 10px;
+}
+/*titulo para todas mis paginas*/
+.titulo{
+    text-align: center;
+    color: rgb(94, 94, 94);
+    font-size: 20px;
+    margin: 20px;
+}
+a{
+  font-size: 20px;  
+  text-decoration: none;
+}
+a:hover{
+    color: orange;
+}
+
+.tablita{
+    width: 70%;
+    background-color: rgb(164, 221, 221);
+    margin: auto;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+h3{
+    color: brown;
+    text-align: center;
+    margin-top: 20px;
+}
+p{
+    text-align: justify;
+    
+}
